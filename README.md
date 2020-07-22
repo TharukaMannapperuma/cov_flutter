@@ -1,4 +1,5 @@
 # covid19 App
+<img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/tharukamannapperuma/cov_flutter?include_prereleases"> <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/tharukamannapperuma/cov_flutter/total?color=green"> <img alt="GitHub" src="https://img.shields.io/github/license/tharukamannapperuma/cov_flutter">
 
 A Basic Flutter application.
 
