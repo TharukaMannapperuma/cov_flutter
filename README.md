@@ -1,6 +1,6 @@
-# covid19
+# covid19 App
 
-A new Flutter application.
+A Basic Flutter application.
 
 ## Getting Started
 
